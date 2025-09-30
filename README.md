@@ -8,6 +8,8 @@ deviation for each district.
 1.3. Generate a Fibonacci sequence of length 5 to project the next 5 years of growth.
 1.4. Compare the variance of actual vs projected data.
 1.5. Plot actual vs projected populations using Matplotlib.
+
+
 Question 2: Solar Micro-Grid Simulation
 Equations: 3x + 2y = D1 and 4x + y = D2, where x = solar panels, y = batteries.
 Attempt the following tasks:
@@ -17,6 +19,8 @@ Attempt the following tasks:
 2.4. Use statistics to compute mean, variance, and standard deviation of solar vs
 battery usage.
 2.5. Plot daily solar vs battery usage.
+
+
 Question 3: Lake Victoria Fish Export Risk Model Attempt the following tasks:
 3.1. Generate 15 Fibonacci numbers to simulate fish stock growth.
 3.2. Simulate fish prices in UGX per kg, e.g. [12000, 12500, 11800, 13000, 12800,...].
@@ -24,7 +28,7 @@ Question 3: Lake Victoria Fish Export Risk Model Attempt the following tasks:
 3.4. Compute mean, median, variance of revenue using statistics.
 3.5. Print 'High risk' if variance > 50,000, else 'Low risk'.
 3.6. Plot fish stock vs revenue trend.
- 1
+
 Question 4: Weather & Agriculture Analysis Rainfall data (mm) for Kampala across 12 months:
 [120, 140, 180, 200, 220, 180, 90, 70, 60, 100, 110, 130] Attempt the following tasks:
 4.1. Store rainfall data in a NumPy array.
@@ -33,6 +37,7 @@ Question 4: Weather & Agriculture Analysis Rainfall data (mm) for Kampala across
 4.3. Simulate Gulu rainfall with different values.
 4.4. Compute cosine similarity of Kampala vs Gulu rainfall trends using math.cos().
 4.5. Plot both regions' rainfall in one chart.
+
 Question 5: Taxi Transport Revenue & Variability
 Passenger counts for 10 days on Kampala–Ntinda route: [35, 40, 42, 50, 55, 60, 48, 52, 47, 45]
 Attempt the following tasks:
