@@ -47,3 +47,5 @@ Attempt the following tasks:
 5.4. Use scipy.linalg.solve to model a simple supply-demand system.
 5.5. Forecast 11th day's revenue using average of last 3 days.
 5.6. Plot actual vs forecasted revenues.
+
+# **Uploaded Assigment 2 and 3 as well.**
